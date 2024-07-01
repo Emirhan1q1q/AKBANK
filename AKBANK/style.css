@@ -1,0 +1,56 @@
+.anaslider{
+ height: 500px;
+  
+}
+body{ 
+    padding-top: 50px;
+    font-family: "Montserrat", sans-serif;
+   background-color: azure;
+}
+*{
+    box-sizing: border-box;
+}
+.hakkımızdabaslık{
+    color: red;
+}
+.hakkimizda{
+    background-color: azure;
+}
+
+h1 {
+    text-align: center;
+    color: #0070ba;
+}
+form {
+    margin-top: 20px;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-group textarea {
+    height: 100px;
+}
+.form-group button {
+    background-color: #0070ba;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.form-group button:hover {
+    background-color: #005689;
+}
